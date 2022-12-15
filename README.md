@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamVojacek
-- 👀 I’m interested in Data Science, Data Analytics, Business Intelligence, Google Analytics
-- 🌱 I’m currently learning Python, SQL, Statistics, Linear Algebra, Probability
+- 👀 I’m interested in Data Engineering, Data Science, Data Analytics, Business Intelligence
+- 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
